@@ -13,6 +13,9 @@
   </ul>
 </div>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NpNjdzeXY0cGpna256aWMzcmt1cjVrajd6ejZuYTdydWNuY3VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.webp" align="right" height="240">
+
+
 <!--Intro start-->
 - 🔭 I’m currently searching for **job opportunities** as a junior gameplay programmer
 
