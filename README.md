@@ -7,13 +7,12 @@
 </div>
 
 <!--h2 without bottom border-->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NpNjdzeXY0cGpna256aWMzcmt1cjVrajd6ejZuYTdydWNuY3VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.webp" align="right" height="240">
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Gaming since I was a kid ✨</h2></summary>
   </ul>
 </div>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NpNjdzeXY0cGpna256aWMzcmt1cjVrajd6ejZuYTdydWNuY3VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.webp" align="right" height="240">
 
 
 <!--Intro start-->
