@@ -34,9 +34,7 @@
 <span> 
   <img src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white&color=4ca1fd"width="auto" 
      height="32">
-  <img src="https://img.shields.io/badge/Blueprint-1572B6?style=flat-square&logo=blueprint&logoColor=white&color=4c7afd"width="auto" 
-     height="32">
-  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=python&logoColor=white&color=366c9c"width="auto" 
+  <img src="https://img.shields.io/badge/Blueprint-1572B6?style=flat-square&logo=blueprint&logoColor=white&color=7d5eff"width="auto" 
      height="32">
   <img src="https://img.shields.io/badge/GDScript-1572B6?style=flat-square&logo=godotengine&logoColor=white&color=53b7ff"width="auto" 
      height="32">
@@ -66,6 +64,10 @@
      height="23">
   <img src="https://img.shields.io/badge/Css-F7DF1E?style=flat-square&logo=css3&logoColor=white&color=29a9df"width="auto" 
      height="23">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=python&logoColor=white&color=366c9c"width="auto" 
+     height="23">
+  <img src="https://img.shields.io/badge/Shotgrid-F7DF1E?style=flat-square&logo=autodesk&logoColor=white&color=000000"width="auto" 
+     height="23">
 </span>
 
 
@@ -76,6 +78,4 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/lauracuestasvera/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
 </p>
