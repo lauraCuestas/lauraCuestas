@@ -74,6 +74,12 @@
 ## 📦 Projects
 
 
+<table style="width:100%">
+ <tr>
+  <td align="center">
+ 	 <a href="https://github.com/lauraCuestas/Shooter-Top-Down"><img src="https://github.com/lauraCuestas/Assets/blob/main/capturaShooterTopDown.png?raw=true" height="150"></a>
+ 	 <strong><a href="https://github.com/lauraCuestas/Shooter-Top-Down"> Shooter Top Down (UE)</a></strong>
+ </tr>
 
 <!--icons and links-->
 <p align="center">
