@@ -1,18 +1,15 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Laura Cuestas</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 😊, I'm Laura Cuestas</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Gaming since I was a kid</h2></summary>
   </ul>
 </div>
 
@@ -25,7 +22,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **Unreal en, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Unreal Engine**
 
 - 📫 Feel free to reach me out **lauravera9@live.com**
 
@@ -36,9 +33,24 @@
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white&color=4ca1fd"width="auto" 
+     height="32">
+  <img src="https://img.shields.io/badge/Blueprint-1572B6?style=flat-square&logo=blueprint&logoColor=white&color=4c7afd"width="auto" 
+     height="32">
+  <img src="https://img.shields.io/badge/Html5-F7DF1E?style=flat-square&logo=html5&logoColor=white&color=fd694c"width="auto" 
+     height="32">
+  <img src="https://img.shields.io/badge/Css-F7DF1E?style=flat-square&logo=css3&logoColor=white&color=29a9df"width="auto" 
+     height="32">
+</span>
+
+<h4> Engines </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Unreal Engine-E34F26?style=flat-square&logo=unrealengine&logoColor=white&color=363636"width="auto" 
+     height="32">
+  <img src="https://img.shields.io/badge/Godot-1572B6?style=flat-square&logo=godotengine&logoColor=white&color=53b7ff"width="auto" 
+     height="32">
+  <img src="https://img.shields.io/badge/Autodesk Maya-F7DF1E?style=flat-square&logo=autodeskmaya&logoColor=white&color=39bae9"width="auto" 
+     height="32">
 </span>
 
 
