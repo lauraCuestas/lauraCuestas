@@ -9,7 +9,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Gaming since I was a kid</h2></summary>
+    <summary><h2 style="display: inline-block">Gaming since I was a kid ✨</h2></summary>
   </ul>
 </div>
 
@@ -18,12 +18,13 @@
 
 - 🌱 I’m always learning <!--****-->
 
-- 💬 Ask me about **Unreal Engine**
+- 🎓 Graduated in **Digital creation, animation and videogames**
 
 - 📫 Feel free to reach me out **lauravera9@live.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  **lau__cv** my username!
+- ⭐ Know more about me in my **[linkedin](https://www.linkedin.com/in/lauracuestasvera/)** profile
 <!--Intro end-->
+
 
 ## My Skills Include
 
@@ -60,6 +61,7 @@
   <img src="https://img.shields.io/badge/Css-F7DF1E?style=flat-square&logo=css3&logoColor=white&color=29a9df"width="auto" 
      height="23">
 </span>
+
 
 ## 📦 Projects
 
