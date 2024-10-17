@@ -18,7 +18,7 @@
 <!--Intro start-->
 - 🔭 I’m currently searching for **job opportunities** as a junior gameplay programmer
 
-- 🌱 I’m currenlty doing the **Pro Unreal Engine Game Coding** course on Udemy
+- 🌱 I’m always learning
 
 - 🎓 Graduated in **Digital creation, animation and videogames**
 
