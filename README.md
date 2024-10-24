@@ -38,6 +38,8 @@
      height="32">
   <img src="https://img.shields.io/badge/GDScript-1572B6?style=flat-square&logo=godotengine&logoColor=white&color=53b7ff"width="auto" 
      height="32">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=python&logoColor=white&color=366c9c"width="auto" 
+     height="32">
 </span>
 
 <h4> 🔧 Engines </h4>
@@ -53,9 +55,7 @@
   <img src="https://img.shields.io/badge/Autodesk Maya-F7DF1E?style=flat-square&logo=autodeskmaya&logoColor=white&color=39bae9"width="auto" 
      height="32">
   <img src="https://img.shields.io/badge/Photoshop-F7DF1E?style=flat-square&logo=adobephotoshop&logoColor=2fa3f7&color=001d34"width="auto" 
-     height="32">  
-  <img src="https://img.shields.io/badge/Trello-F7DF1E?style=flat-square&logo=trello&logoColor=white&color=0090e4"width="auto" 
-     height="32"> 
+     height="32">   
 </span>
 
 <h5> 🔍 More </h5>
@@ -64,7 +64,7 @@
      height="23">
   <img src="https://img.shields.io/badge/Css-F7DF1E?style=flat-square&logo=css3&logoColor=white&color=29a9df"width="auto" 
      height="23">
-  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=python&logoColor=white&color=366c9c"width="auto" 
+  <img src="https://img.shields.io/badge/Trello-F7DF1E?style=flat-square&logo=trello&logoColor=white&color=0090e4"width="auto" 
      height="23">
   <img src="https://img.shields.io/badge/Shotgrid-F7DF1E?style=flat-square&logo=autodesk&logoColor=white&color=000000"width="auto" 
      height="23">
