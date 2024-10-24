@@ -88,9 +88,15 @@
    	  <a href="https://github.com/lauraCuestas/Shooter-Top-Down"><img src="https://github.com/lauraCuestas/Assets/blob/main/capturaShooterTopDown.png?raw=true" height="150"></a>
    	  <br><strong><a href="https://github.com/lauraCuestas/Shooter-Top-Down">Shooter Top Down (UE)</a></strong>
     </td>
- </tr>
+</tr>
+<tr>
+  <td align="center">
+   	  <a href="https://github.com/lauraCuestas/MeigaShooter"><img src="https://github.com/lauraCuestas/Assets/blob/main/MeigaShooterCapture.png?raw=true" height="150"></a>
+   	  <br><strong><a href="https://github.com/lauraCuestas/MeigaShooter">Meiga Shooter (Godot)</a></strong>
+    </td>
+</tr>
 </table>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lauracuestasvera/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lauracuestasvera/" target="blank"><img align="right" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
